@@ -1,4 +1,7 @@
+Fehcoin
+=======
 
-FehCoin
+[![Build Status](https://travis-ci.org/RazorLove/fehcoin.png?branch=master)](https://travis-ci.org/RazorLove/fehcoin)
 
-A Proof of Stake version of FooCoin
+
+Proof of Stake Scrypt Hashcash Cryptocurrency Template
